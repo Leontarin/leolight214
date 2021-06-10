@@ -1,7 +1,7 @@
-Greetings, I'm Leo.
+Greetings, I'm Leo.<br/>
 ♦ I am an aspiring Software Developer. <br/>
-♥ I like Video games, video editing, graphic design, playing the Flute and create a bunch of projects in everything that interests me.
-♠ Currently learning other forms of 'OUTPUT' other than <Windows.h> on C/C++
-♣ So far I dabbled in C/C++ with simplistic programs like Snake, Tic Tac Toe and I/O shenanigans.
+♥ I like Video games, video editing, graphic design, playing the Flute and create a bunch of projects in everything that interests me. <br/>
+♠ Currently learning other forms of 'OUTPUT' other than <Windows.h> on C/C++ <br/>
+♣ So far I dabbled in C/C++ with simplistic programs like Snake, Tic Tac Toe and I/O shenanigans. <br/>
 
 Contact: leolight214@gmail.com
